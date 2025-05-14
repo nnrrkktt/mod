@@ -1,0 +1,92 @@
+h2{
+
+        border-radius: 5px;
+        list-style-type: none;
+        padding: 0;
+        margin: 0 10px 0 0;
+        font-family: "Open Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+        font-variation-settings:
+          "wdth" 100;
+          font-family: "Playwrite RO", cursive;
+          font-optical-sizing: auto;
+          font-weight: <weight>;
+          font-style: normal;
+          font-family: "Special Gothic Expanded One", sans-serif;
+          font-weight: 400;
+          font-style: normal;
+          font-family: "Playwrite DK Loopet", cursive;
+          font-optical-sizing: auto;
+          font-weight: <weight>;
+          font-style: normal;
+          font-family: "Comfortaa", sans-serif;
+          font-optical-sizing: auto;
+          font-weight: <weight>;
+          font-style: normal;
+          font-size:  24px;
+}
+h3{
+
+  border-radius: 5px;
+  text-align: center;
+  list-style-type: none;
+  padding: 0;
+  margin: 0 10px 0 0;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    font-family: "Playwrite RO", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-family: "Special Gothic Expanded One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Playwrite DK Loopet", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size:  24px;
+}
+p{
+  font-size: 30px;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+  font-family: "Playwrite RO", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-family: "Special Gothic Expanded One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-family: "Playwrite DK Loopet", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-family: "Russo One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+img{
+  width: 300px;
+  height: 300px;
+}
